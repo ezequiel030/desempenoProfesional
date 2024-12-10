@@ -7,8 +7,8 @@
 3. [Riesgos y oportunidades que representan los ODS](riesgos.md)
 4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
 5. [Prácticas sostenibles en ele ambiente personal](practica.md)
-6. [Conclusiones]
-7. [Mapa conceptual]
-8. [Glosario]
-9. [Referencias]
-10. [Autores]
+6. [Conclusiones](conclusiones.md)
+7. [Mapa conceptual](mapa.md)
+8. [Glosario](glosario.md)
+9. [Referencias](referencias.md)
+10. [Autores](autores.md)
