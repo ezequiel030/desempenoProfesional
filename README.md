@@ -1,5 +1,7 @@
 # Introducción 
 
+![Desempeño profesional](img/desempeño-soste.jpg)
+
 Índice
 
 1. [Introducción](introduccion.md)
