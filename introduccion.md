@@ -1,7 +1,7 @@
 # Introducción
 
 
-<span style="color: turquoise;">
+<span style="color: red;">
 Texto en turquesa
 </span>
 
