@@ -1,5 +1,3 @@
-# Introducción 
-
 ![Desempeño profesional](img/desempeño-soste.jpg)
 
 Índice
