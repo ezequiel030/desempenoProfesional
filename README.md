@@ -1,6 +1,8 @@
+# Sostenibilidad
+
 ![Desempeño profesional](img/desempeño-soste.jpg)
 
-Índice
+## Índice
 
 1. [Introducción](introduccion.md)
 2. [Desempeño profesional y personal](desempeño.md)
