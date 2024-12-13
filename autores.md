@@ -1,4 +1,5 @@
 # Autores
 
-1. Pablo Galve
-2. Ezequiel Chávez
+<span style="color: turquoise;">1. Pablo Galve</span>
+<span style="color: turquoise;">2. Ezequiel Chávez</span>
+
