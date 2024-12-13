@@ -1,7 +1,9 @@
 # Introducción
 
 
-<span style="color: turquoise;">Texto en turquesa</span>
+<span style="color: turquoise;">
+Texto en turquesa
+</span>
 
 
 <p align="justify">
