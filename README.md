@@ -2,7 +2,7 @@
 
 Índice
 
-1. [Introduccón](introduccion.md)
+1. [Introducción](introduccion.md)
 2. [Desempeño profesional y personal](desempeño.md)
 3. [Riesgos y oportunidades que representan los ODS](riesgos.md)
 4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
