@@ -7,15 +7,17 @@ Los Objetivos de Desarrollo Sostenible (ODS), creados por la ONU en 2015, son un
 
 # Riesgos y Oportunidades de los ODS
 
-| **Aspecto**       | **Descripción**                                                                                      | **Referencias**                             |
-|--------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Riesgos**        |                                                                                                    |                                            |
-| Costos de inacción | Ignorar los ODS puede acarrear riesgos económicos significativos, como conflictos sociales y ambientales. | [ExpokNews](https://www.expoknews.com)     |
-| Cambios regulatorios | Las normativas sobre sostenibilidad pueden impactar a empresas no alineadas con los ODS.           | [FairChange](https://www.fairchangeimpact.com) |
-| Impactos climáticos y sociales | Falta de gestión adecuada puede desestabilizar cadenas de suministro y operaciones.     | [Sostenibles](https://sostenibles.org)     |
-| **Oportunidades**  |                                                                                                    |                                            |
-| Nuevos mercados    | Demanda creciente de productos sostenibles genera oportunidades, especialmente en economías emergentes. | [ExpokNews](https://www.expoknews.com)     |
-| Gestión de riesgos ESG | Incorporar los ODS mejora la resiliencia organizacional.                                         | [FairChange](https://www.fairchangeimpact.com) |
-| Innovación         | Los ODS impulsan el desarrollo de infraestructuras verdes y la eficiencia energética.              | [ExpokNews](https://www.expoknews.com)     |
-| Reputación y fidelización | Compromiso con los ODS fortalece la imagen corporativa y atrae a clientes y empleados sostenibles. | [Sostenibles](https://sostenibles.org)     |
+| **Categoría**   | **Descripción**                                                                                             |
+|------------------|-----------------------------------------------------------------------------------------------------------|
+| **Riesgos**      |                                                                                                           |
+| Costos de inacción | Ignorar los ODS puede ocasionar conflictos sociales y ambientales, pérdida de competitividad y costos significativos (hasta un tercio del PIB global). |
+| Cambios regulatorios | Las nuevas normativas sobre sostenibilidad representan desafíos para las empresas no alineadas con los ODS. |
+| Impactos climáticos y sociales | La falta de gestión en cambio climático o derechos humanos puede afectar cadenas de suministro y operaciones. |
+| **Oportunidades** |                                                                                                          |
+| Nuevos mercados | Crecimiento de la demanda de productos y servicios sostenibles, especialmente en economías emergentes. |
+| Gestión de riesgos ESG | Mitigación de riesgos ambientales, sociales y de gobernanza, mejorando la resiliencia organizacional. |
+| Innovación       | Desarrollo de soluciones y modelos de negocio sostenibles como infraestructura verde y eficiencia energética. |
+| Reputación y fidelización | Mejora de la reputación corporativa y atracción de clientes y empleados con valores sostenibles. |
+
+
 
