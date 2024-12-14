@@ -1,6 +1,7 @@
 # Introducción
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MCKH5xk8X-g" frameborder="0"></iframe>
+[![Mira este video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=MCKH5xk8X-g)
+
 
 
 
