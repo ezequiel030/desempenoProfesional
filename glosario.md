@@ -1,5 +1,7 @@
 # Glosario 
 
+[Glosario](img/)
+
 1. Desarrollo sostenible: Es un modelo de desarrollo que equilibra el crecimiento económico, el bienestar social y cuidado ambiental, garantizando recursos para futuras generaciones.
 
 2. Desempeño profesional en relación con la sostenibilidad: Es la actuación laboral basada en prácticas responsables que minimizán impactos ambientales, optimizan recursos y cumplen normas ecológicas.
