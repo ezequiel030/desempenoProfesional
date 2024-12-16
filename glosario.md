@@ -1,6 +1,6 @@
 # Glosario 
 
-![Glosario](img/green-yellow-color-blurred-gradient.jpg)
+![Glosario](img/)
 
 1. Desarrollo sostenible: Es un modelo de desarrollo que equilibra el crecimiento económico, el bienestar social y cuidado ambiental, garantizando recursos para futuras generaciones.
 
