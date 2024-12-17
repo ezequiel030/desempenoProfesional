@@ -18,5 +18,6 @@ Los Objetivos de Desarrollo Sostenible (ODS), creados por la ONU en 2015, son un
 | Innovación       | Desarrollo de soluciones y modelos de negocio sostenibles como infraestructura verde y eficiencia energética. |
 | Reputación y fidelización | Mejora de la reputación corporativa y atracción de clientes y empleados con valores sostenibles. |
 
-
-
+<p align="justify">
+¿Con qué ODS está relacionado la industria, la innovación y la infraestructura?
+</p>
