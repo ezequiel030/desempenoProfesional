@@ -1,6 +1,6 @@
 # Sostenibilidad
 
-![Desempeño profesional](img/desempeño-soste.jpg)
+![Desempeño profesional](img/DALL·E-2024-12-17-22.58.jpg)
 
 ## Índice
 
