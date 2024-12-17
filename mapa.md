@@ -1,1 +1,1 @@
-[Mapa Conceptual](MapaConceptual.jpg)
+![Mapa Conceptual](MapaConceptual.jpg)
