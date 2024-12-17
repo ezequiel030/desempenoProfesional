@@ -3,11 +3,17 @@
 Las practicas que tenemos que hacer como sociedad son las siguientes:
 <p align="justify">
 1. Ahorra energía: Usa bombillas LED, desconecta aparatos que no uses, elige electrodomésticos eficientes y aprovecha la luz natural.
+
 2. Gestiona residuos: Recicla, composta, reduce los desechos y reutiliza materiales siempre que puedas.
+
 3. Consume responsablemente: Compra local, evita desperdicios, elige productos sostenibles y apuesta por ropa duradera.
+
 4. Cuida el agua: Cierra grifos, instala ahorradores, recoge agua de lluvia y reutiliza lo posible.
+
 5. Opta por movilidad sostenible: Camina, usa bicicleta, comparte transporte o elige vehículos eléctricos.
+
 6. Conéctate con la naturaleza: Planta árboles, consume alimentos de temporada y prioriza una dieta basada en plantas.
+
 7. Educa y comparte: Difunde estas prácticas, participa en actividades ambientales y sigue aprendiendo.
 </p>
 
