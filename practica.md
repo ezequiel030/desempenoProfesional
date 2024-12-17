@@ -1,6 +1,6 @@
+# Prácticas sostenibles en el ambiente personal
 
-
-
+Las practicas que tenemos que hacer como sociedad 
 Ahorra energía: Usa bombillas LED, desconecta aparatos que no uses, elige electrodomésticos eficientes y aprovecha la luz natural.
 Gestiona residuos: Recicla, composta, reduce los desechos y reutiliza materiales siempre que puedas.
 Consume responsablemente: Compra local, evita desperdicios, elige productos sostenibles y apuesta por ropa duradera.
