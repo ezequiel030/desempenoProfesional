@@ -2,6 +2,7 @@
 
 Las practicas que tenemos que hacer como sociedad son las siguientes:
 <p align="justify">
+
 1. Ahorra energía: Usa bombillas LED, desconecta aparatos que no uses, elige electrodomésticos eficientes y aprovecha la luz natural.
 
 2. Gestiona residuos: Recicla, composta, reduce los desechos y reutiliza materiales siempre que puedas.
