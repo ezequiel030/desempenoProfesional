@@ -1,5 +1,6 @@
 # Desempeño profesional y personal
----
+
+
 Podemos definir el desempeño profesional como el comportamiento o la conducta real de los trabajadores, tanto en el orden profesional y técnico como en las relaciones interpersonales que se crean en la atención del proceso de la salud y/o la enfermedad de la población.
 
 Por otro lado, eldesarrollo personal es el modo en que una persona lleva a cabo una labor que le fue encomendada, sea del tipo que sea.
